@@ -1,7 +1,8 @@
 # Local News
-## Built by using News API
-## State management Cubit
-## Web view for the Article details
+## Built by using News API.
+## State management Cubit.
+## Web view for the Article details.
+## Light/Dark theme mode.
 
 ### Business and Science
 <img src="screenshots/one.jpg" width="400"> <img src="screenshots/two.jpg" width="400">
