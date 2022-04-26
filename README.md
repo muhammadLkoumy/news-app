@@ -4,6 +4,8 @@
 ## Web view for the Article details.
 ## Light/Dark theme mode.
 
+<text> ----------------------------------------------------------------------------------------------------------------------------- </text>
+
 ### Business and Science
 <img src="screenshots/one.jpg" width="400"> <img src="screenshots/two.jpg" width="400">
 ### Sports and Search
